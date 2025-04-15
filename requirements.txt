@@ -1,4 +1,4 @@
-Flask==1.0
+Flask==2.2.5
 requests==2.32.2
 boto==2.6.0
 eventlet==0.35.2
